@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Social App</string>
+    <string name="postInputText">What do you want to talk about?</string>
+    <string name="postButtonText">POST</string>
+    <string name="logOutDialogBoxTitle">"Log Out"</string>
+    <string name="logOutDialogBoxMessage">"Are you sure you want to proceed?"</string>
+    <string name="log_out_alert_dialog_title_text">Log Out</string>
+    <string name="log_out_alert_dialog_message_text">Are you sure you want to log out?</string>
+    <string name="yes_text">Yes</string>
+    <string name="cancel_text">Cancel</string>
+</resources>
